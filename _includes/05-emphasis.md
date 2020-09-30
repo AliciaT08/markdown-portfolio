@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I used to be a researcher and I am now diving in to the _wonderful_ world of code and technology. <br>
+My skills include:
+- **HTML**
+- **CSS**
+- **Javascript**
+- **Python**
